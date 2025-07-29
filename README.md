@@ -1,6 +1,7 @@
 ## ⚠️ Atenção: Repositório de Estudo ⚠️ ##
 
 Este repositório contém um projeto desenvolvido para fins de estudo e aprendizado, foi utilizado como base o projeto do curso da Desenvolvedora Crislaine DePaula. 
+
 https://www.youtube.com/watch?v=EBvV_pS50F8&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=2
 
 **Ele não é a versão final ou recomendada e pode estar desatualizado.**
